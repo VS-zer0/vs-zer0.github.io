@@ -30,6 +30,7 @@ footer {
 }
 
 div.page {
+    text-align: center;
     min-height: calc(100% - 115px);
     max-width: 1000px;
     margin: auto;
@@ -37,6 +38,31 @@ div.page {
     padding-bottom: 65px;
     border-left: dashed #16cc35;
     border-right: dashed #16cc35;
+}
+
+div.project {
+    padding: 10px 0px 10px 0px;
+}
+
+div.listitem {
+    border-bottom: 1px dashed #16cc35;
+    border-top: 1px dashed #16cc35;
+}
+
+div.pagination-1 {
+    text-align: center;
+}
+
+p.tags {
+    text-align: right;
+}
+
+p.tags span {
+    background-color: #16cc35;
+    border: 2px solid #16cc35;
+    font-weight: bold;
+    border-radius: 10%;
+    color: #0e0e0e;
 }
 
 header h1 {
@@ -75,4 +101,8 @@ ul.navbar-nav {
 li.active a {
     color: #2bff00 !important;
     font-weight: bold;
+}
+
+img.poster {
+    max-width: 100%;
 }

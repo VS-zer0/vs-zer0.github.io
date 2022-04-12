@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="/PS Chibi Mini.png">
 
-    <title>Blog</title>
+    <title>Создание сайта с помощью Lektor</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/cover/">
 
@@ -23,11 +23,11 @@
             <h1>VS-Portfolio</h1>
           <nav class="nav nav-masthead justify-content-center">
             <ul class="nav navbar-nav">
-                <li><a href="../">Главная</a></li>
+                <li><a href="/">Главная</a></li>
                 
-                  <li><a href="../projects/">Проекты</a></li>
+                  <li class="active"><a href="/projects/">Проекты</a></li>
                 
-                  <li><a href="../about/">Обо мне</a></li>
+                  <li><a href="/about/">Обо мне</a></li>
                 
               </ul>
           </nav>
@@ -37,70 +37,50 @@
       <div class="page">
         <main role="main" class="inner cover">
           
+<p><a href="/projects/">Назад к проектам</a></p>
+<div class="project" style="overflow:hidden">
   
+    <h2>Создание сайта с помощью Lektor</h2>
+  
+  <p class="tags">
+    <span style="float:left">Лабораторная работа</span>
     
-  <div class="blog-post">
+        <span>html</span>
+    
+        <span>css</span>
+    
+        <span>lektor</span>
+    
+        <span>ghpages</span>
+    
+  </p>
   
-    <h2><a href="first-post/">Hello Website</a></h2>
+  <h3><a href="https://github.com/VS-zer0/vs-zer0.github.io">Проект</a></h3>
+
+  <div>
+    <h3>Этот сайт тоже является одним из проектов</h3>
+
+  </div>
+
+  <img class="poster" src="https://cdn.discordapp.com/attachments/445632902013779969/445634156181979138/Phase_Shifter_Chibi.png">
   
   <p class="meta">
-    written by
-    
-      VS
-    
-    on 2022-03-01
-  <p class="tags">
-    Теги: 
+    <span style="float:left">Date: 2022-04-05</span>
+    <span style="float:right">Authors: VS</span>
   </p>
-  </p>
-  <p>This is an example blog post.  Not much here but that's not the point :)</p>
-
   </div>
-
-  
-    
-  <div class="blog-post">
-  
-    <h2><a href="number-two/">Number two</a></h2>
-  
-  <p class="meta">
-    written by
-    
-      
-    
-    on 2022-03-01
-  <p class="tags">
-    Теги: 
-        <i>test, 2, iwasforcedtodothis</i>
-    
-  </p>
-  </p>
-  <h1>One</h1>
-<h2>Two</h2>
-<h3>Three</h3>
-<p><strong>A thing</strong>
-<strong>Another thing</strong></p>
-
-  </div>
-
-  
-
-  
-  <div class="pagination">
-    
-      <span class="disabled">&laquo; Previous</span>
-    
-    | 1 |
-    
-      <span class="disabled">Next &raquo;</span>
-    
-  </div>
-
 
         </main>
       </div>
       <footer class="fixed-bottom">
-        &copy; Copyright 2022 by VS.
+        
+  &copy; Copyright 2022 by
+  
+    
+      VS
+    
+
+
       </footer>
 
 
