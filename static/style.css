@@ -12,7 +12,7 @@ body {
 }
 
 a, a:hover {
-    color: #16cc35;
+    color: #00a36c;
 }
 
 header, footer{
@@ -36,8 +36,8 @@ div.page {
     margin: auto;
     padding-top: 0;
     padding-bottom: 65px;
-    border-left: dashed #16cc35;
-    border-right: dashed #16cc35;
+    border-left: dashed #00a36c;
+    border-right: dashed #00a36c;
 }
 
 div.project {
@@ -45,8 +45,8 @@ div.project {
 }
 
 div.listitem {
-    border-bottom: 1px dashed #16cc35;
-    border-top: 1px dashed #16cc35;
+    border-bottom: 1px dashed #00a36c;
+    border-top: 1px dashed #00a36c;
 }
 
 div.pagination-1 {
@@ -58,8 +58,8 @@ p.tags {
 }
 
 p.tags span {
-    background-color: #16cc35;
-    border: 2px solid #16cc35;
+    background-color: #00a36c;
+    border: 2px solid #00a36c;
     font-weight: bold;
     border-radius: 10%;
     color: #0e0e0e;
@@ -99,7 +99,7 @@ ul.navbar-nav {
 }
 
 li.active a {
-    color: #2bff00 !important;
+    color: #50f3bc !important;
     font-weight: bold;
 }
 
